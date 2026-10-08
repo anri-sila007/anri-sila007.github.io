@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["JRU7Z5M96M.app.friendmap.app"],
+        "components": [
+          { "/": "/friendmap-legal/invite" },
+          { "/": "/friendmap-legal/invite/*" }
+        ]
+      }
+    ]
+  }
+}
